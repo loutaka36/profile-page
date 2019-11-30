@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <div>jio</div>
+    <div className="footer">&copy; Ryunoshin Takahashi 2019</div>
   )
 }
 
