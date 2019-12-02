@@ -1,13 +1,13 @@
 import React from 'react';
-
-import './Main.css'
+import SingleExperience from './SingleExperience';
 
 const Experience = () => {
   return (
     <div className="Experience">
-      <div>
-        Hi I do stuff
-      </div>
+      <SingleExperience />
+      <SingleExperience />
+      <SingleExperience />
+      <SingleExperience />
     </div>
   )
 }
